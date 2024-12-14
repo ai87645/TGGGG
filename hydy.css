@@ -1,0 +1,43 @@
+body {
+    max-width: 300vh;
+    max-height: 1200vh;
+    margin: 0;
+    background-color: peachpuff;
+}
+
+.header {
+    background-color: #9cf5bb ;
+    padding-bottom: 3vh;
+    text-align: center;
+}
+a.menu {
+    font-size: 22px;
+    text-decoration: none;
+    color:#5b6ae0;
+    padding-left: 212px;
+}
+.main {
+    display: flex;
+}
+
+div.setOdeshd {
+   display: flex;
+}
+
+
+#picture1,#picture2,#picture3 {
+    width: 500px;
+    height: 450px;
+    margin-top: 12px;
+}
+p.txt1,p.txt2,p.txt3{
+    padding-left: 19vh;
+    font-size: 28px;
+    color:#aa646d;
+}
+h1.money1,h1.money2,h1.money3 {
+    padding-left: 19vh;
+    font-size: 38px;
+    color:#2a2544;
+}
+
